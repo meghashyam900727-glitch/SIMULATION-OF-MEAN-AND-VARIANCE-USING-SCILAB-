@@ -82,9 +82,14 @@ n2=max(size(x))-1;
 r=corr(x,y,n1); 
 plot2d3('gnn',r);
 ```
+####Calculation:
+
+![image](https://github.com/user-attachments/assets/a5855f54-4354-40cb-9aeb-9fb0a47564ad)
+
 
 __OUTPUT GRAPH:__
 <img width="1390" height="812" alt="Screenshot 2025-11-26 193235" src="https://github.com/user-attachments/assets/3491797d-ce13-4760-9b49-6bc0d092da4f" />
 
 __RESULT:__
-Thus the mean and variance ,cross correlation is verified using SCILAB .
+![image](https://github.com/user-attachments/assets/e6846685-daeb-42a1-a194-49605af9eefe)
+
