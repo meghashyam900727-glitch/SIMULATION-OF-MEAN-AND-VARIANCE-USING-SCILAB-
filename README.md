@@ -84,7 +84,8 @@ plot2d3('gnn',r);
 ```
 ####Calculation:
 
-![image](https://github.com/user-attachments/assets/a5855f54-4354-40cb-9aeb-9fb0a47564ad)
+![WhatsApp Image 2025-12-10 at 10 20 59_14ea6d19](https://github.com/user-attachments/assets/71cca0e3-ec66-4ef9-8503-a15bf44f0192)
+
 
 
 __OUTPUT GRAPH:__
